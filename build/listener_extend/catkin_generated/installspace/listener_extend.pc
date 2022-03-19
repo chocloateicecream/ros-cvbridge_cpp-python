@@ -1,0 +1,8 @@
+prefix=/home/lee/catkin_ws/install
+
+Name: listener_extend
+Description: Description of listener_extend
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

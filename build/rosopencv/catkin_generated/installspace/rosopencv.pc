@@ -1,0 +1,8 @@
+prefix=/home/lee/catkin_ws/install
+
+Name: rosopencv
+Description: Description of rosopencv
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
